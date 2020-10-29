@@ -1,0 +1,8 @@
+echo "# Yavuz" >> README.md 
+git init 
+git ekle BENİOKU.md 
+git commit -m "ilk commit" 
+git şube -M ana 
+git uzaktan kaynak ekle https://github.com/Yavuz896/Yavuz.git
+ git push - sen asıl ana
+                
